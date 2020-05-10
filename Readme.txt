@@ -6,7 +6,10 @@ maciejsiega@yahoo.com
 
 Versions review:
 1.0 Program does its function
-1.1 Improved percentage process view and graphics
+1.1 Improved percentage process view
+    Added simple graphics
+    Improved processing speed
+    Increased character limit per password from 32 to 64
 
 
 
