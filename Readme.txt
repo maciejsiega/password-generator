@@ -7,3 +7,13 @@ maciejsiega@yahoo.com
 Versions review:
 1.0 Program does its function
 1.1 Improved percentage process view and graphics
+
+
+
+
+***********Requirements*************
+Python:
+- Python3
+
+Custom modules:
+- pyperclip
