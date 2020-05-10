@@ -14,7 +14,7 @@ Versions review:
 
 
 
-***********Requirements*************
+***********Requirements for code compilation*************
 Python:
 - Python3
 
